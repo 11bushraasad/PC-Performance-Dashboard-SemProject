@@ -8,8 +8,9 @@ This is a student project for our Software Construction and Development course. 
 
 ## Group members
 
-- **Maaz Arshad Akhund** — Backend and system data
 - **Bushra Asad** — Frontend and dashboard
+- **Maaz Arshad Akhund** — Backend and system data
+
 
 We will both help connect the two parts, review the project, and contribute using our own GitHub accounts.
 
