@@ -55,8 +55,7 @@ Our first planned version is **v0.1.0**. We will use Git tags to mark project ve
 ## Repository contents
 
 - `README.md` — project overview and current status
-- `docs/` — project requirements document
-- `src/` — application source code as development begins
+- `Doc/` — project requirements document
 
 ## Running the project
 
